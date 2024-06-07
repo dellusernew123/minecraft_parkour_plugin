@@ -1,0 +1,6 @@
+name: untitledplugin
+version: '${project.version}'
+main: plugin.untitledplugin.Untitledplugin
+api-version: '1.20'
+commands:
+  market: {}
